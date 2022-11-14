@@ -1,0 +1,6 @@
+q1)create a js code to create a form that contain first ,last name, password,confirm password, email address and submit button.
+apply the following validation  i) email must be validated
+                                ii) password and confirm password if matched then message password matched otherwise password not mathced.
+                                 iii)all field must be compulsory
+                                 4)if validation failed it must allert the user
+q2)create a node js application to write a string 'welcome to nodejs class' into buffer and print first 5 and last 3 characterof the string on the console using buffer module.
